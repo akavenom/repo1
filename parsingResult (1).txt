@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Setup Suite", 
+        "tests": [
+            {
+                "name": "Setup Test"
+            }
+        ]
+    }, 
+    {
+        "has_xml": false, 
+        "name": "tests.AppTest", 
+        "suite": "tests.AppTest", 
+        "tests": [
+            {
+                "name": "enterData", 
+                "test": "enterData"
+            }
+        ]
+    }, 
+    {
+        "name": "Teardown Suite", 
+        "tests": [
+            {
+                "name": "Teardown Test"
+            }
+        ]
+    }
+]
